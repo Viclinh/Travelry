@@ -8,7 +8,7 @@ const options = {
   headers: {
     Accept: 'application/json',
     'Content-Type': 'application/json',
-    Authorization: 'Bearer pk_prod_3KTR29GG8E4CNWGZT7D7F2HKMGTF'
+    Authorization: 'Bearer APIKEY'
   },
   body: JSON.stringify({
     "message": {
