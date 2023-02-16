@@ -1,0 +1,15 @@
+{
+    "to": {
+      "email": "testhong30@gmail.com"
+    },
+    "content": {
+      "title": "Travelry Discount Offer",
+      "body": "Welcome to Travelry! We have 3 nights hotel stay for $110 with free breakfasts, free Wifi and free parking space"
+    },
+    "routing": {
+      "method": "single",
+      "channels": [
+        "email"
+      ]
+    }
+  }
